@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18.06.2017, 19:15:53
+    Author     : Andrey
+*/
+
+body {
+    background-image: url(../images/congruent_pentagon.png);
+    
+}
+div {
+    /*background-image: url("q.png");*/
+}
+
+h1 {
+    color: black;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
